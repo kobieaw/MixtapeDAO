@@ -1,0 +1,6 @@
+1) Use AI to analyze videographers recording style and editing style to be able to recreate the video 
+2) Allow a regular person to record people playing sports (these people have given consent and want a mixtape made). 
+3) The video file gets edited to the end user's (person being recorded) liking by the AI, they then get a mixtape 
+4) Person recording gets paid for doing the recording work 
+5) Original videographer gets paid for the AI using their style/template 
+6) End user pays to get the mixtape made 
